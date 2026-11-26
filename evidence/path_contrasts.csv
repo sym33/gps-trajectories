@@ -1,0 +1,193 @@
+cohort,condition,method,control,metric,groups,mean_gain,lower,upper,result,family
+GeoLife geometry,burst2on10off_noise0,PCHIP,linear,position_mae_m,14,116.1976296211744,28.05063739311366,233.4986892449399,better,48
+GeoLife geometry,burst2on10off_noise0,PCHIP,linear,motion_vector_mae_mps,14,0.46143317785519944,0.10984392636780935,0.9393163520877145,better,48
+GeoLife geometry,burst2on10off_noise0,hermite_half,linear,position_mae_m,14,0.770047729897379,0.25171555460081446,1.5765631542935872,better,48
+GeoLife geometry,burst2on10off_noise0,hermite_half,linear,motion_vector_mae_mps,14,0.001783823213439383,8.032341533461826e-05,0.004322249236759217,better,48
+GeoLife geometry,burst2on10off_noise25,PCHIP,linear,position_mae_m,14,-55.58810566526246,-168.49982043181961,48.334116712795705,unresolved,48
+GeoLife geometry,burst2on10off_noise25,PCHIP,linear,motion_vector_mae_mps,14,-0.16200095096130748,-0.5788812201140493,0.22949294848565996,unresolved,48
+GeoLife geometry,burst2on10off_noise25,hermite_half,linear,position_mae_m,14,0.15116226763412804,-0.9036150200610924,1.3181074806355664,unresolved,48
+GeoLife geometry,burst2on10off_noise25,hermite_half,linear,motion_vector_mae_mps,14,-0.0045551541127335305,-0.00797081423204189,-0.0005041950438941188,worse,48
+GeoLife geometry,gap1200_noise0,PCHIP,linear,position_mae_m,14,98.86796933210394,12.807116512919311,206.33010021806246,better,48
+GeoLife geometry,gap1200_noise0,PCHIP,linear,motion_vector_mae_mps,14,0.23934917877184553,0.045270592178937544,0.5455484415256904,better,48
+GeoLife geometry,gap1200_noise0,hermite_half,linear,position_mae_m,14,11.19139709825786,3.1320827208742714,21.12378455890579,better,48
+GeoLife geometry,gap1200_noise0,hermite_half,linear,motion_vector_mae_mps,14,0.046843382909981406,0.011413836131920985,0.0975251733161288,better,48
+GeoLife geometry,gap1200_noise25,PCHIP,linear,position_mae_m,14,96.31082089442455,10.167597224007938,207.02150835882094,better,48
+GeoLife geometry,gap1200_noise25,PCHIP,linear,motion_vector_mae_mps,14,0.23050117018376928,0.035945794987070415,0.5378409759958279,better,48
+GeoLife geometry,gap1200_noise25,hermite_half,linear,position_mae_m,14,10.615604662151847,2.0270419665551667,20.717076316700794,better,48
+GeoLife geometry,gap1200_noise25,hermite_half,linear,motion_vector_mae_mps,14,0.04333979955824191,0.00612401089293361,0.0921441354011905,better,48
+GeoLife geometry,gap600_noise0,PCHIP,linear,position_mae_m,14,31.142058245107187,4.754507424283667,76.29875456429387,better,48
+GeoLife geometry,gap600_noise0,PCHIP,linear,motion_vector_mae_mps,14,0.17128898163205575,0.0315057980693843,0.41444425035432353,better,48
+GeoLife geometry,gap600_noise0,hermite_half,linear,position_mae_m,14,8.18690123712788,1.881368067073589,17.17748445134001,better,48
+GeoLife geometry,gap600_noise0,hermite_half,linear,motion_vector_mae_mps,14,0.07094658057144944,0.015481351378998896,0.15207495444827465,better,48
+GeoLife geometry,gap600_noise25,PCHIP,linear,position_mae_m,14,29.991979763818478,3.0820487499575946,75.17888008963818,better,48
+GeoLife geometry,gap600_noise25,PCHIP,linear,motion_vector_mae_mps,14,0.15973941978594558,0.019349482875872646,0.3891483274236021,better,48
+GeoLife geometry,gap600_noise25,hermite_half,linear,position_mae_m,14,7.654841931256198,1.0332097682522774,17.172609832739237,better,48
+GeoLife geometry,gap600_noise25,hermite_half,linear,motion_vector_mae_mps,14,0.065588061894351,0.008881988549332642,0.14604398982402864,better,48
+GeoLife geometry,periodic12_noise0,PCHIP,linear,position_mae_m,14,19.392318894332476,3.6997380588459063,48.82399167550571,better,48
+GeoLife geometry,periodic12_noise0,PCHIP,linear,motion_vector_mae_mps,14,0.11845812994151082,0.023209628154448644,0.302962218874316,better,48
+GeoLife geometry,periodic12_noise0,hermite_half,linear,position_mae_m,14,14.833666216931283,3.75501665454606,31.523220898659147,better,48
+GeoLife geometry,periodic12_noise0,hermite_half,linear,motion_vector_mae_mps,14,0.11408340576796161,0.024550760217958205,0.2519809637983558,better,48
+GeoLife geometry,periodic12_noise25,PCHIP,linear,position_mae_m,14,17.861556089718068,2.059537117073598,46.48165979279667,better,48
+GeoLife geometry,periodic12_noise25,PCHIP,linear,motion_vector_mae_mps,14,0.11583200467937542,0.019197012954647687,0.3000590844001423,better,48
+GeoLife geometry,periodic12_noise25,hermite_half,linear,position_mae_m,14,14.285573212089888,3.10946248827903,30.026012812680282,better,48
+GeoLife geometry,periodic12_noise25,hermite_half,linear,motion_vector_mae_mps,14,0.11398330914760173,0.02186435243802037,0.24873599435302324,better,48
+GeoLife geometry,periodic30_noise0,PCHIP,linear,position_mae_m,14,6.482756370151466,1.8272109577307056,13.69307445537703,better,48
+GeoLife geometry,periodic30_noise0,PCHIP,linear,motion_vector_mae_mps,14,0.07701549429808614,0.020306035248218578,0.17660655627261027,better,48
+GeoLife geometry,periodic30_noise0,hermite_half,linear,position_mae_m,14,5.296020918197953,1.3243880514269148,11.415556019513385,better,48
+GeoLife geometry,periodic30_noise0,hermite_half,linear,motion_vector_mae_mps,14,0.0873644110926221,0.018414607249249045,0.20183012378031073,better,48
+GeoLife geometry,periodic30_noise25,PCHIP,linear,position_mae_m,14,5.159849653160452,0.08655126159328519,13.070487941291539,better,48
+GeoLife geometry,periodic30_noise25,PCHIP,linear,motion_vector_mae_mps,14,0.06445690345183674,0.00044239401805705973,0.17280386785022664,better,48
+GeoLife geometry,periodic30_noise25,hermite_half,linear,position_mae_m,14,4.584887104675725,0.49421474558072925,10.84910902805215,better,48
+GeoLife geometry,periodic30_noise25,hermite_half,linear,motion_vector_mae_mps,14,0.08067991964918035,0.010393194402475934,0.19817293860936663,better,48
+GeoLife geometry,periodic60_noise0,PCHIP,linear,position_mae_m,14,3.0385197201827165,0.8418374682331806,5.781906494575202,better,48
+GeoLife geometry,periodic60_noise0,PCHIP,linear,motion_vector_mae_mps,14,0.053031007786992775,0.01654590710902585,0.09824485188317275,better,48
+GeoLife geometry,periodic60_noise0,hermite_half,linear,position_mae_m,14,2.520060215512818,0.8988137849629734,4.690489116025416,better,48
+GeoLife geometry,periodic60_noise0,hermite_half,linear,motion_vector_mae_mps,14,0.05962228990772516,0.021780599340510718,0.11087041520903403,better,48
+GeoLife geometry,periodic60_noise25,PCHIP,linear,position_mae_m,14,0.9067584318961391,-1.2551992177137854,3.593352965744391,unresolved,48
+GeoLife geometry,periodic60_noise25,PCHIP,linear,motion_vector_mae_mps,14,-0.008820599879078517,-0.047428297394034244,0.03763681167667133,unresolved,48
+GeoLife geometry,periodic60_noise25,hermite_half,linear,position_mae_m,14,1.2380543557697519,-0.3911585508489841,3.2332973560050036,unresolved,48
+GeoLife geometry,periodic60_noise25,hermite_half,linear,motion_vector_mae_mps,14,0.02526505924663156,-0.01664132177967565,0.07662257667621189,unresolved,48
+GeoLife GP subset,burst2on10off_noise0,GPSImpute_RQ_mean,linear,position_mae_m,14,10.24413568971015,-79.87913041723192,135.20539866771662,unresolved,48
+GeoLife GP subset,burst2on10off_noise0,GPSImpute_RQ_mean,linear,motion_vector_mae_mps,14,-0.11408811877129445,-0.4492377819494747,0.3233541309881154,unresolved,48
+GeoLife GP subset,burst2on10off_noise0,GPSImpute_RQPER_mean,linear,position_mae_m,14,107.76335748899746,13.144001445107246,250.25697818260153,better,48
+GeoLife GP subset,burst2on10off_noise0,GPSImpute_RQPER_mean,linear,motion_vector_mae_mps,14,0.3633488758368572,0.013974835674484938,0.8801760292165436,better,48
+GeoLife GP subset,burst2on10off_noise25,GPSImpute_RQ_mean,linear,position_mae_m,14,9.317394967312342,-81.8339582419364,127.68396194890038,unresolved,48
+GeoLife GP subset,burst2on10off_noise25,GPSImpute_RQ_mean,linear,motion_vector_mae_mps,14,0.05006235231167505,-0.28029756680495066,0.4858743992102233,unresolved,48
+GeoLife GP subset,burst2on10off_noise25,GPSImpute_RQPER_mean,linear,position_mae_m,14,112.16190751881582,12.750404735621798,252.61127781861902,better,48
+GeoLife GP subset,burst2on10off_noise25,GPSImpute_RQPER_mean,linear,motion_vector_mae_mps,14,0.5525194926784094,0.175944675188853,1.0826401842324695,better,48
+GeoLife GP subset,gap1200_noise0,GPSImpute_RQ_mean,linear,position_mae_m,14,-62.425616484120134,-175.29079791509542,34.282530778706935,unresolved,48
+GeoLife GP subset,gap1200_noise0,GPSImpute_RQ_mean,linear,motion_vector_mae_mps,14,-0.44578712505595147,-0.8493816736173782,-0.12443920593079424,worse,48
+GeoLife GP subset,gap1200_noise0,GPSImpute_RQPER_mean,linear,position_mae_m,14,-6.484297742112618,-170.71035424967206,193.70603386638163,unresolved,48
+GeoLife GP subset,gap1200_noise0,GPSImpute_RQPER_mean,linear,motion_vector_mae_mps,14,-0.2037970109840772,-0.6813007207627539,0.20147097313839105,unresolved,48
+GeoLife GP subset,gap1200_noise25,GPSImpute_RQ_mean,linear,position_mae_m,14,-44.96354799875494,-147.3175159814001,53.543670042244315,unresolved,48
+GeoLife GP subset,gap1200_noise25,GPSImpute_RQ_mean,linear,motion_vector_mae_mps,14,-0.33975334340438235,-0.7760248845892257,0.012711941787041775,unresolved,48
+GeoLife GP subset,gap1200_noise25,GPSImpute_RQPER_mean,linear,position_mae_m,14,5.536140305020104,-152.24319928315762,212.9310574594253,unresolved,48
+GeoLife GP subset,gap1200_noise25,GPSImpute_RQPER_mean,linear,motion_vector_mae_mps,14,-0.12181412714570919,-0.6111358418673988,0.2873451552415092,unresolved,48
+GeoLife GP subset,gap600_noise0,GPSImpute_RQ_mean,linear,position_mae_m,14,-44.705353685772124,-84.59862840040924,-6.70865424296927,worse,48
+GeoLife GP subset,gap600_noise0,GPSImpute_RQ_mean,linear,motion_vector_mae_mps,14,-0.4827590621845266,-0.8021455461295209,-0.16221097798977527,worse,48
+GeoLife GP subset,gap600_noise0,GPSImpute_RQPER_mean,linear,position_mae_m,14,-14.324343206261725,-62.33669070872307,40.20167587217218,unresolved,48
+GeoLife GP subset,gap600_noise0,GPSImpute_RQPER_mean,linear,motion_vector_mae_mps,14,-0.13850326096432128,-0.40348428843042544,0.1343695848843673,unresolved,48
+GeoLife GP subset,gap600_noise25,GPSImpute_RQ_mean,linear,position_mae_m,14,-37.99536520931484,-79.41108873453138,0.5619737551209214,unresolved,48
+GeoLife GP subset,gap600_noise25,GPSImpute_RQ_mean,linear,motion_vector_mae_mps,14,-0.4213014994253537,-0.8051731653647783,-0.05632978131061415,worse,48
+GeoLife GP subset,gap600_noise25,GPSImpute_RQPER_mean,linear,position_mae_m,14,-6.569542538272726,-51.73823928866754,48.69505596236408,unresolved,48
+GeoLife GP subset,gap600_noise25,GPSImpute_RQPER_mean,linear,motion_vector_mae_mps,14,-0.11320846204368405,-0.4404993042272814,0.2193756249303229,unresolved,48
+GeoLife GP subset,periodic12_noise0,GPSImpute_RQ_mean,linear,position_mae_m,14,-141.28231329026596,-344.9254724496751,-22.599145653953443,worse,48
+GeoLife GP subset,periodic12_noise0,GPSImpute_RQ_mean,linear,motion_vector_mae_mps,14,-0.47059225819850753,-1.3044568063860196,-0.054967424778864,worse,48
+GeoLife GP subset,periodic12_noise0,GPSImpute_RQPER_mean,linear,position_mae_m,14,-282.13194693253456,-847.2479072079558,-15.654762928500167,worse,48
+GeoLife GP subset,periodic12_noise0,GPSImpute_RQPER_mean,linear,motion_vector_mae_mps,14,-0.7088680981254666,-1.9509327172185447,-0.0866063539187905,worse,48
+GeoLife GP subset,periodic12_noise25,GPSImpute_RQ_mean,linear,position_mae_m,14,-232.0744017960013,-424.7451886542553,-61.14626475732236,worse,48
+GeoLife GP subset,periodic12_noise25,GPSImpute_RQ_mean,linear,motion_vector_mae_mps,14,-0.7456349746675534,-1.6422185501931998,-0.15649599265189734,worse,48
+GeoLife GP subset,periodic12_noise25,GPSImpute_RQPER_mean,linear,position_mae_m,14,-267.59890291678784,-617.836185713223,-50.41786709560796,worse,48
+GeoLife GP subset,periodic12_noise25,GPSImpute_RQPER_mean,linear,motion_vector_mae_mps,14,-0.7453253814955786,-1.7464867319788204,-0.14971215509365113,worse,48
+GeoLife GP subset,periodic30_noise0,GPSImpute_RQ_mean,linear,position_mae_m,14,-61.59595149425279,-108.78018538575006,-18.47463609996351,worse,48
+GeoLife GP subset,periodic30_noise0,GPSImpute_RQ_mean,linear,motion_vector_mae_mps,14,-0.6057401437600191,-1.0983989391680822,-0.16049092310218266,worse,48
+GeoLife GP subset,periodic30_noise0,GPSImpute_RQPER_mean,linear,position_mae_m,14,-31.321452443660114,-67.93391686512935,-5.32089445199188,worse,48
+GeoLife GP subset,periodic30_noise0,GPSImpute_RQPER_mean,linear,motion_vector_mae_mps,14,-0.29392995060899757,-0.6912865135887599,-0.0263760033199872,worse,48
+GeoLife GP subset,periodic30_noise25,GPSImpute_RQ_mean,linear,position_mae_m,14,-57.053993993735745,-105.98385375852486,-11.748608480238788,worse,48
+GeoLife GP subset,periodic30_noise25,GPSImpute_RQ_mean,linear,motion_vector_mae_mps,14,-0.5355468199506209,-1.0611837854558648,-0.044590377170887006,worse,48
+GeoLife GP subset,periodic30_noise25,GPSImpute_RQPER_mean,linear,position_mae_m,14,-27.028802765293424,-64.95023499748172,-1.105526192986774,worse,48
+GeoLife GP subset,periodic30_noise25,GPSImpute_RQPER_mean,linear,motion_vector_mae_mps,14,-0.18547456790015415,-0.49943663287818557,0.04390984075151741,unresolved,48
+GeoLife GP subset,periodic60_noise0,GPSImpute_RQ_mean,linear,position_mae_m,14,-33.99238669528396,-70.91120377595468,-9.854352970034896,worse,48
+GeoLife GP subset,periodic60_noise0,GPSImpute_RQ_mean,linear,motion_vector_mae_mps,14,-0.6781966255990983,-1.301458576388922,-0.2078523908329498,worse,48
+GeoLife GP subset,periodic60_noise0,GPSImpute_RQPER_mean,linear,position_mae_m,14,-20.654732316689408,-42.96777459917606,-4.618375529230172,worse,48
+GeoLife GP subset,periodic60_noise0,GPSImpute_RQPER_mean,linear,motion_vector_mae_mps,14,-0.4620736418261936,-0.9383906052776417,-0.10725480488044563,worse,48
+GeoLife GP subset,periodic60_noise25,GPSImpute_RQ_mean,linear,position_mae_m,14,-23.125273541934938,-58.532115129997486,2.5341368790128405,unresolved,48
+GeoLife GP subset,periodic60_noise25,GPSImpute_RQ_mean,linear,motion_vector_mae_mps,14,-0.39615199456222566,-1.064758020180848,0.15769657359821593,unresolved,48
+GeoLife GP subset,periodic60_noise25,GPSImpute_RQPER_mean,linear,position_mae_m,14,-13.066305856406533,-36.032073905007465,5.100664113732416,unresolved,48
+GeoLife GP subset,periodic60_noise25,GPSImpute_RQPER_mean,linear,motion_vector_mae_mps,14,-0.2103568219254416,-0.7285153624686422,0.22273442219754996,unresolved,48
+VED,absolute60_noise0,PCHIP,linear,position_mae_m,40,-3.0550089790538975,-12.006934278618566,3.5300234021003916,unresolved,48
+VED,absolute60_noise0,PCHIP,linear,motion_vector_mae_mps,40,-0.11516694475408437,-0.3983233963669983,0.09687998923025136,unresolved,48
+VED,absolute60_noise0,hermite_half,linear,position_mae_m,40,2.5226962902517416,0.9552091850824177,4.6419358056441515,better,48
+VED,absolute60_noise0,hermite_half,linear,motion_vector_mae_mps,40,0.07479097276450031,0.022122378784360353,0.13481226456851267,better,48
+VED,absolute60_noise0,GPSImpute_RQ_mean,linear,position_mae_m,40,-137.61036911293155,-254.37565926542734,-59.670110542014534,worse,48
+VED,absolute60_noise0,GPSImpute_RQ_mean,linear,motion_vector_mae_mps,40,-3.0778600929275286,-5.289545247033376,-1.4434489369033618,worse,48
+VED,absolute60_noise0,GPSImpute_RQ_anchored,linear,position_mae_m,40,-137.35952276484255,-252.30294569114753,-60.81030864289589,worse,48
+VED,absolute60_noise0,GPSImpute_RQ_anchored,linear,motion_vector_mae_mps,40,-3.0798127539539015,-5.360495935594904,-1.4052416517188702,worse,48
+VED,absolute60_noise0,GPSImpute_RQPER_mean,linear,position_mae_m,40,-127.31295980385849,-220.94921722642917,-62.82889619672274,worse,48
+VED,absolute60_noise0,GPSImpute_RQPER_mean,linear,motion_vector_mae_mps,40,-3.0013874763141066,-4.940034266663706,-1.4763563041810874,worse,48
+VED,absolute60_noise0,GPSImpute_RQPER_anchored,linear,position_mae_m,40,-127.12997711186453,-222.87472362666298,-64.93780968660221,worse,48
+VED,absolute60_noise0,GPSImpute_RQPER_anchored,linear,motion_vector_mae_mps,40,-2.993995964195934,-4.930637572927821,-1.525170858053557,worse,48
+VED,relative12_noise0,PCHIP,linear,position_mae_m,40,1.3940140100189042,0.48044481273125395,2.3350276613210807,better,48
+VED,relative12_noise0,PCHIP,linear,motion_vector_mae_mps,40,0.0818050909105882,0.02822492470250612,0.13823626115133608,better,48
+VED,relative12_noise0,hermite_half,linear,position_mae_m,40,1.0442583994324395,0.7163256806727286,1.377830551501336,better,48
+VED,relative12_noise0,hermite_half,linear,motion_vector_mae_mps,40,0.059465196353818396,0.036181635183432474,0.08342469403937404,better,48
+VED,relative12_noise0,GPSImpute_RQ_mean,linear,position_mae_m,40,-17.420985052031927,-30.095491199891782,-7.549605544133088,worse,48
+VED,relative12_noise0,GPSImpute_RQ_mean,linear,motion_vector_mae_mps,40,-1.0576063291289075,-1.7523709003890844,-0.511825761524363,worse,48
+VED,relative12_noise0,GPSImpute_RQ_anchored,linear,position_mae_m,40,-17.33690343857938,-30.542145394411317,-7.554777197788238,worse,48
+VED,relative12_noise0,GPSImpute_RQ_anchored,linear,motion_vector_mae_mps,40,-1.0381508022394672,-1.766502365748122,-0.4952553037224036,worse,48
+VED,relative12_noise0,GPSImpute_RQPER_mean,linear,position_mae_m,40,-11.788182708267447,-22.39388916399797,-4.67244153332823,worse,48
+VED,relative12_noise0,GPSImpute_RQPER_mean,linear,motion_vector_mae_mps,40,-0.7063146414193342,-1.232476967488315,-0.3078818504472211,worse,48
+VED,relative12_noise0,GPSImpute_RQPER_anchored,linear,position_mae_m,40,-11.71648303038948,-21.892961785067737,-4.933590857586427,worse,48
+VED,relative12_noise0,GPSImpute_RQPER_anchored,linear,motion_vector_mae_mps,40,-0.6936559555349465,-1.202947813371186,-0.3174966666770636,worse,48
+VED,relative30_noise0,PCHIP,linear,position_mae_m,40,-0.2767877139681234,-0.510035931269979,-0.07945060970027602,worse,48
+VED,relative30_noise0,PCHIP,linear,motion_vector_mae_mps,40,-0.019177695280408073,-0.03586653956076238,-0.007539644004554529,worse,48
+VED,relative30_noise0,hermite_half,linear,position_mae_m,40,-0.12328388893340955,-0.24113683149282103,-0.03621301783713326,worse,48
+VED,relative30_noise0,hermite_half,linear,motion_vector_mae_mps,40,-0.007265616586826085,-0.013837092204513046,-0.0023079210310212217,worse,48
+VED,relative30_noise0,GPSImpute_RQ_mean,linear,position_mae_m,40,-0.32628789987736173,-0.7179281891053149,0.08851403962618277,unresolved,48
+VED,relative30_noise0,GPSImpute_RQ_mean,linear,motion_vector_mae_mps,40,-0.011801941361107297,-0.026877414541678805,0.003992322724304012,unresolved,48
+VED,relative30_noise0,GPSImpute_RQ_anchored,linear,position_mae_m,40,-0.2702567641148173,-0.6606200823738043,0.1496505794084818,unresolved,48
+VED,relative30_noise0,GPSImpute_RQ_anchored,linear,motion_vector_mae_mps,40,-0.005693544412251443,-0.020546714052991355,0.009486431597885071,unresolved,48
+VED,relative30_noise0,GPSImpute_RQPER_mean,linear,position_mae_m,40,0.06179513962504377,-0.2718609759877552,0.3795669822377532,unresolved,48
+VED,relative30_noise0,GPSImpute_RQPER_mean,linear,motion_vector_mae_mps,40,0.005631350779813455,-0.00916455351266826,0.019743180254769174,unresolved,48
+VED,relative30_noise0,GPSImpute_RQPER_anchored,linear,position_mae_m,40,0.1082069410019187,-0.2359248223156272,0.43151377520984124,unresolved,48
+VED,relative30_noise0,GPSImpute_RQPER_anchored,linear,motion_vector_mae_mps,40,0.010407943711785184,-0.004752758369998851,0.025319818465766083,unresolved,48
+VED,relative60_noise0,PCHIP,linear,position_mae_m,40,-0.7205234186906726,-1.1037952508126718,-0.4763539850658884,worse,48
+VED,relative60_noise0,PCHIP,linear,motion_vector_mae_mps,40,-0.04219564979295237,-0.06661339033669242,-0.027602914389473,worse,48
+VED,relative60_noise0,hermite_half,linear,position_mae_m,40,-0.29446120931546915,-0.4751059217777163,-0.1905531163406801,worse,48
+VED,relative60_noise0,hermite_half,linear,motion_vector_mae_mps,40,-0.012254040225361853,-0.019556080856850146,-0.007849522430775384,worse,48
+VED,relative60_noise0,GPSImpute_RQ_mean,linear,position_mae_m,40,-0.09755679858575887,-1.0639593969432501,0.5130751634331651,unresolved,48
+VED,relative60_noise0,GPSImpute_RQ_mean,linear,motion_vector_mae_mps,40,-0.027153785663513286,-0.07051963932842951,-0.000964470138636526,worse,48
+VED,relative60_noise0,GPSImpute_RQ_anchored,linear,position_mae_m,40,0.055379359484758264,-0.7343049812008218,0.5885215977509354,unresolved,48
+VED,relative60_noise0,GPSImpute_RQ_anchored,linear,motion_vector_mae_mps,40,-0.0069522439316034605,-0.03413888091597627,0.016703218541722336,unresolved,48
+VED,relative60_noise0,GPSImpute_RQPER_mean,linear,position_mae_m,40,0.029403530096257936,-0.960005755833833,0.5751047243142237,unresolved,48
+VED,relative60_noise0,GPSImpute_RQPER_mean,linear,motion_vector_mae_mps,40,-0.01280467539693422,-0.056119479560399844,0.011914652026968918,unresolved,48
+VED,relative60_noise0,GPSImpute_RQPER_anchored,linear,position_mae_m,40,0.16805810283599942,-0.619232810043511,0.6267950850963317,unresolved,48
+VED,relative60_noise0,GPSImpute_RQPER_anchored,linear,motion_vector_mae_mps,40,0.005351152465231778,-0.01974147160198222,0.026137695508549042,unresolved,48
+SPMD,absolute60_noise0,PCHIP,linear,position_mae_m,17,3.992387996883836,-11.346200307104722,22.63024817313603,unresolved,48
+SPMD,absolute60_noise0,PCHIP,linear,motion_vector_mae_mps,17,0.0789717701885797,-0.47312473648948916,0.7422856592715408,unresolved,48
+SPMD,absolute60_noise0,hermite_half,linear,position_mae_m,17,7.036716221426319,1.9909208564686283,12.700229405800643,better,48
+SPMD,absolute60_noise0,hermite_half,linear,motion_vector_mae_mps,17,0.19156058782479213,0.052011607302415504,0.3603819350645375,better,48
+SPMD,absolute60_noise0,GPSImpute_RQ_mean,linear,position_mae_m,17,-159.1375209886924,-244.7301603491281,-83.0500942590577,worse,48
+SPMD,absolute60_noise0,GPSImpute_RQ_mean,linear,motion_vector_mae_mps,17,-4.348104131412623,-6.732766556402004,-2.1985468137672344,worse,48
+SPMD,absolute60_noise0,GPSImpute_RQ_anchored,linear,position_mae_m,17,-158.46271703998698,-242.4802844947753,-82.63970303306863,worse,48
+SPMD,absolute60_noise0,GPSImpute_RQ_anchored,linear,motion_vector_mae_mps,17,-4.29951273544624,-6.584040935827864,-2.1835818704596504,worse,48
+SPMD,absolute60_noise0,GPSImpute_RQPER_mean,linear,position_mae_m,17,-135.0685407095199,-205.22216062634504,-69.60628662197887,worse,48
+SPMD,absolute60_noise0,GPSImpute_RQPER_mean,linear,motion_vector_mae_mps,17,-3.7819289982938384,-5.909315332460728,-1.9238100127066873,worse,48
+SPMD,absolute60_noise0,GPSImpute_RQPER_anchored,linear,position_mae_m,17,-134.4314648150362,-202.5531711665808,-68.49056966668361,worse,48
+SPMD,absolute60_noise0,GPSImpute_RQPER_anchored,linear,motion_vector_mae_mps,17,-3.7330875925017963,-5.804768085906038,-1.8689850147916922,worse,48
+SPMD,relative12_noise0,PCHIP,linear,position_mae_m,17,2.3659033717000937,1.327462159360759,3.4244884574060492,better,48
+SPMD,relative12_noise0,PCHIP,linear,motion_vector_mae_mps,17,0.17927289966556523,0.11205662050596102,0.25332254205598154,better,48
+SPMD,relative12_noise0,hermite_half,linear,position_mae_m,17,1.8127906323782483,1.2962558047645443,2.391922606270238,better,48
+SPMD,relative12_noise0,hermite_half,linear,motion_vector_mae_mps,17,0.12757652527230764,0.09227894876850948,0.1671778506409783,better,48
+SPMD,relative12_noise0,GPSImpute_RQ_mean,linear,position_mae_m,17,-15.855184760395643,-29.686582361351086,-4.61114513211008,worse,48
+SPMD,relative12_noise0,GPSImpute_RQ_mean,linear,motion_vector_mae_mps,17,-1.022930014627793,-1.9875097536799586,-0.24872717486089865,worse,48
+SPMD,relative12_noise0,GPSImpute_RQ_anchored,linear,position_mae_m,17,-15.740672887589051,-30.131865732470057,-4.485268938501396,worse,48
+SPMD,relative12_noise0,GPSImpute_RQ_anchored,linear,motion_vector_mae_mps,17,-1.010714899853091,-2.0176021936953332,-0.22100196077885495,worse,48
+SPMD,relative12_noise0,GPSImpute_RQPER_mean,linear,position_mae_m,17,-17.327104552067972,-35.169344007995555,-2.693294849322285,worse,48
+SPMD,relative12_noise0,GPSImpute_RQPER_mean,linear,motion_vector_mae_mps,17,-1.0671478774041934,-2.188622251219887,-0.1120845499938843,worse,48
+SPMD,relative12_noise0,GPSImpute_RQPER_anchored,linear,position_mae_m,17,-17.199631434439386,-35.75187415922888,-2.7644782700093944,worse,48
+SPMD,relative12_noise0,GPSImpute_RQPER_anchored,linear,motion_vector_mae_mps,17,-1.0484410747414632,-2.2027575426967143,-0.11762447917411824,worse,48
+SPMD,relative30_noise0,PCHIP,linear,position_mae_m,17,0.8153097498751346,0.5673481850304611,1.0637730824627314,better,48
+SPMD,relative30_noise0,PCHIP,linear,motion_vector_mae_mps,17,0.04635566287222905,0.032591824790495105,0.06030685373246655,better,48
+SPMD,relative30_noise0,hermite_half,linear,position_mae_m,17,0.5597364921538135,0.39364317862955134,0.7394755189565373,better,48
+SPMD,relative30_noise0,hermite_half,linear,motion_vector_mae_mps,17,0.033075981125309246,0.023667907535346793,0.04335775460058024,better,48
+SPMD,relative30_noise0,GPSImpute_RQ_mean,linear,position_mae_m,17,-3.449700835389719,-7.29937756111181,-1.6083552663334693,worse,48
+SPMD,relative30_noise0,GPSImpute_RQ_mean,linear,motion_vector_mae_mps,17,-0.16773865616749542,-0.40130091301180026,-0.07141079371631173,worse,48
+SPMD,relative30_noise0,GPSImpute_RQ_anchored,linear,position_mae_m,17,-3.3952455784527182,-7.284236225405296,-1.588744805745029,worse,48
+SPMD,relative30_noise0,GPSImpute_RQ_anchored,linear,motion_vector_mae_mps,17,-0.16498003159329222,-0.3973434523811975,-0.06911855227719296,worse,48
+SPMD,relative30_noise0,GPSImpute_RQPER_mean,linear,position_mae_m,17,-1.5590636997705172,-2.6552783740277066,-0.6565830452958688,worse,48
+SPMD,relative30_noise0,GPSImpute_RQPER_mean,linear,motion_vector_mae_mps,17,-0.06431552918248495,-0.10407458831842141,-0.02609924524879548,worse,48
+SPMD,relative30_noise0,GPSImpute_RQPER_anchored,linear,position_mae_m,17,-1.5224764382609148,-2.5933080163794147,-0.6038511930671172,worse,48
+SPMD,relative30_noise0,GPSImpute_RQPER_anchored,linear,motion_vector_mae_mps,17,-0.06219565583703814,-0.10176066376116569,-0.023761942676236887,worse,48
+SPMD,relative60_noise0,PCHIP,linear,position_mae_m,17,0.22461630400042845,0.1509004378705372,0.31257648357907697,better,48
+SPMD,relative60_noise0,PCHIP,linear,motion_vector_mae_mps,17,0.012487010797745371,0.008137993170315804,0.017288567268321915,better,48
+SPMD,relative60_noise0,hermite_half,linear,position_mae_m,17,0.14162361000767,0.09616184151337132,0.1941538803828301,better,48
+SPMD,relative60_noise0,hermite_half,linear,motion_vector_mae_mps,17,0.00869097070767516,0.00588478533293304,0.011856162146530508,better,48
+SPMD,relative60_noise0,GPSImpute_RQ_mean,linear,position_mae_m,17,-1.9691954081150878,-2.7120354708728502,-1.3403597011284039,worse,48
+SPMD,relative60_noise0,GPSImpute_RQ_mean,linear,motion_vector_mae_mps,17,-0.09912326741681542,-0.12874487527669642,-0.06821332661027177,worse,48
+SPMD,relative60_noise0,GPSImpute_RQ_anchored,linear,position_mae_m,17,-1.9129572565430857,-2.620707278829495,-1.2673055283390045,worse,48
+SPMD,relative60_noise0,GPSImpute_RQ_anchored,linear,motion_vector_mae_mps,17,-0.09646995027726726,-0.12446473035357744,-0.06537359027237173,worse,48
+SPMD,relative60_noise0,GPSImpute_RQPER_mean,linear,position_mae_m,17,-1.5044399697691917,-2.063949374194445,-1.0294916154443376,worse,48
+SPMD,relative60_noise0,GPSImpute_RQPER_mean,linear,motion_vector_mae_mps,17,-0.07513205724722498,-0.09580372027498667,-0.05437600262735743,worse,48
+SPMD,relative60_noise0,GPSImpute_RQPER_anchored,linear,position_mae_m,17,-1.4586059279548218,-2.0040534307110867,-0.9992376356663959,worse,48
+SPMD,relative60_noise0,GPSImpute_RQPER_anchored,linear,motion_vector_mae_mps,17,-0.07286109705227475,-0.09311629007598507,-0.05306505507603861,worse,48

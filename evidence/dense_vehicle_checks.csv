@@ -1,0 +1,49 @@
+cohort,groups,windows,requests,reference,selected,control,interval_model,required_budget_m,budget_m,passed
+VED original,40,58,30,CAN,linear,GPSImpute_RQ_mean,bootstrap,10.813960321471418,25,True
+VED original,40,58,30,CAN,linear,GPSImpute_RQ_mean,paired_t,11.246841219348731,25,True
+VED original,40,58,30,CAN,linear,GPSImpute_RQPER_mean,bootstrap,8.728145321871015,25,True
+VED original,40,58,30,CAN,linear,GPSImpute_RQPER_mean,paired_t,9.17608359218275,25,True
+VED original,40,58,60,CAN,linear,GPSImpute_RQ_mean,bootstrap,8.199650739158514,25,True
+VED original,40,58,60,CAN,linear,GPSImpute_RQ_mean,paired_t,8.678587545154402,25,True
+VED original,40,58,60,CAN,linear,GPSImpute_RQPER_mean,bootstrap,13.912024198342824,25,True
+VED original,40,58,60,CAN,linear,GPSImpute_RQPER_mean,paired_t,13.083600709315508,25,True
+VED original,40,58,30,CAN_left,linear,GPSImpute_RQ_mean,bootstrap,10.94291799753336,25,True
+VED original,40,58,30,CAN_left,linear,GPSImpute_RQ_mean,paired_t,11.41070481308455,25,True
+VED original,40,58,30,CAN_left,linear,GPSImpute_RQPER_mean,bootstrap,8.562370444539988,25,True
+VED original,40,58,30,CAN_left,linear,GPSImpute_RQPER_mean,paired_t,9.157646226341052,25,True
+VED original,40,58,60,CAN_left,linear,GPSImpute_RQ_mean,bootstrap,8.275577307842468,25,True
+VED original,40,58,60,CAN_left,linear,GPSImpute_RQ_mean,paired_t,8.75173843166992,25,True
+VED original,40,58,60,CAN_left,linear,GPSImpute_RQPER_mean,bootstrap,13.997406332669346,25,True
+VED original,40,58,60,CAN_left,linear,GPSImpute_RQPER_mean,paired_t,13.223748482668073,25,True
+SPMD,17,17,30,CAN,linear,GPSImpute_RQ_mean,bootstrap,16.152050236741175,25,True
+SPMD,17,17,30,CAN,linear,GPSImpute_RQ_mean,paired_t,17.48049005621681,25,True
+SPMD,17,17,30,CAN,linear,GPSImpute_RQPER_mean,bootstrap,10.330454821685338,25,True
+SPMD,17,17,30,CAN,linear,GPSImpute_RQPER_mean,paired_t,11.670017619712786,25,True
+SPMD,17,17,60,CAN,ridge_signed,GPSImpute_RQ_mean,bootstrap,12.108077538722807,25,True
+SPMD,17,17,60,CAN,ridge_signed,GPSImpute_RQ_mean,paired_t,12.823689058641676,25,True
+SPMD,17,17,60,CAN,ridge_signed,GPSImpute_RQPER_mean,bootstrap,9.75144381952942,25,True
+SPMD,17,17,60,CAN,ridge_signed,GPSImpute_RQPER_mean,paired_t,10.558233241973218,25,True
+SPMD,17,17,30,CAN_left,linear,GPSImpute_RQ_mean,bootstrap,16.376529073819185,25,True
+SPMD,17,17,30,CAN_left,linear,GPSImpute_RQ_mean,paired_t,17.69876345294575,25,True
+SPMD,17,17,30,CAN_left,linear,GPSImpute_RQPER_mean,bootstrap,10.458059731020295,25,True
+SPMD,17,17,30,CAN_left,linear,GPSImpute_RQPER_mean,paired_t,11.796428659534593,25,True
+SPMD,17,17,60,CAN_left,ridge_signed,GPSImpute_RQ_mean,bootstrap,12.081680877212406,25,True
+SPMD,17,17,60,CAN_left,ridge_signed,GPSImpute_RQ_mean,paired_t,12.813382943073151,25,True
+SPMD,17,17,60,CAN_left,ridge_signed,GPSImpute_RQPER_mean,bootstrap,9.684919030655688,25,True
+SPMD,17,17,60,CAN_left,ridge_signed,GPSImpute_RQPER_mean,paired_t,10.533901324794877,25,True
+VED additional,88,121,30,CAN,linear,GPSImpute_RQ_mean,bootstrap,8.977591093574736,25,True
+VED additional,88,121,30,CAN,linear,GPSImpute_RQ_mean,paired_t,8.808989328726899,25,True
+VED additional,88,121,30,CAN,linear,GPSImpute_RQPER_mean,bootstrap,5.230926325619311,25,True
+VED additional,88,121,30,CAN,linear,GPSImpute_RQPER_mean,paired_t,5.307935921931597,25,True
+VED additional,88,121,30,CAN_left,linear,GPSImpute_RQ_mean,bootstrap,8.222537484893314,25,True
+VED additional,88,121,30,CAN_left,linear,GPSImpute_RQ_mean,paired_t,8.36875208290063,25,True
+VED additional,88,121,30,CAN_left,linear,GPSImpute_RQPER_mean,bootstrap,5.070814781634173,25,True
+VED additional,88,121,30,CAN_left,linear,GPSImpute_RQPER_mean,paired_t,5.1470481618091535,25,True
+VED additional,88,121,60,CAN,linear,GPSImpute_RQ_mean,bootstrap,7.3094519656190835,25,True
+VED additional,88,121,60,CAN,linear,GPSImpute_RQ_mean,paired_t,7.357232228939469,25,True
+VED additional,88,121,60,CAN,linear,GPSImpute_RQPER_mean,bootstrap,20.447902797340433,25,True
+VED additional,88,121,60,CAN,linear,GPSImpute_RQPER_mean,paired_t,17.178090510660677,25,True
+VED additional,88,121,60,CAN_left,linear,GPSImpute_RQ_mean,bootstrap,7.593453797605337,25,True
+VED additional,88,121,60,CAN_left,linear,GPSImpute_RQ_mean,paired_t,7.743768882089948,25,True
+VED additional,88,121,60,CAN_left,linear,GPSImpute_RQPER_mean,bootstrap,20.285773478211727,25,True
+VED additional,88,121,60,CAN_left,linear,GPSImpute_RQPER_mean,paired_t,17.05403563564965,25,True
