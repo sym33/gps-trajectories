@@ -1,6 +1,6 @@
 # GPS trajectory reconstruction
 
-Statistical evidence for *What GPS Trajectory Reconstruction Can Improve: Error Limits, Output Accuracy and Reuse* by Robin von Känel and Murat Sariyar.
+Statistical evidence for *What GPS Trajectory Reconstruction Can Improve: Error Limits, Output Accuracy and Reuse* by Marko Miletic and Murat Sariyar.
 
 The study evaluates distance and time in geographic areas from incomplete GPS observations. The coordinates supplied to an interpolator impose a lower bound on distance error when the path must preserve those coordinates.
 
